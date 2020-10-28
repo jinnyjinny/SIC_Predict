@@ -1,6 +1,6 @@
 # Attention based ConvLSTM for SIC Prediction
 
-- 위성에서 관측하는 마이크로파 세기 신호를 변환해서 목표 타겟 변수인 SIC(Sea Ice Concentration)을 측정한다.
+- 위성에서 관측하는 마이크로파 세기 신호를 변환하여 목표 타겟 변수인 SIC(Sea Ice Concentration)을 측정한다.
 
 
 [Introduction] 
