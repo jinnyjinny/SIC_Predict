@@ -25,7 +25,7 @@
 - ConvLSTM 논문을 읽고 모델을 코드로 구현
 - 모델 input/output에 알맞는 학습 데이터셋 구축
 - 데이터에 맞는 모델 파라미터 조정 
-- 모델 레이어 구성 변형
+- 모델 구성 변형
 - Attention module 추가를 위해 코드 구현 진행 중
 
 [ConvLSTM]
