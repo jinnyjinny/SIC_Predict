@@ -12,13 +12,21 @@
 3) 해당 연구의 목적은 형체 움직임을 확인하는 것이다. 정량적인 판단을 목적으로 하지 않는다. 참고로 정량적 평가는 Ice motion vector, drift, Ice pattern recognition을 사용하는 것이 용이하다.
 
 
-[연구 목적]
+[Purpose]
 - Attention based ConvLSTM for SIC Prediction
 
-[Application]
+[Approach]
 - 머신러닝 기법 중 딥러닝 알고리즘의 ConvLSTM 을 활용한다. 
 - 특정 공간을 집중하는 Attention module 을 모델에 접목한다.
 
-[수행 목록]
-- ConvLSTM 논문을 코드로 구현하여 위성 SIC Data에 접목
-- 논문에서 제시된 모델의 Return sequence, Kernel size 파라미터 조정 및 레이어 구성 변형
+[What I did]
+- ConvLSTM 논문을 읽고 모델을 코드로 구현
+- 모델 input/output에 알맞는 학습 데이터셋 구축
+- 데이터에 맞는 모델 파라미터 조정 및 레이어 구성 변형
+- Attention module 추가를 위해 코드 구현 진행 중
+
+[ConvLSTM]
+- 왜 이 모델을 썼는지 
+
+[Attention module]
+- 왜 이 모듈을 썼는지 
