@@ -20,6 +20,7 @@
 - 특정 공간을 집중하는 Attention module 을 모델에 접목한다.
 
 [What I did]
+- 순환 신경망 개념 학습 
 - ConvLSTM 논문을 읽고 모델을 코드로 구현
 - 모델 input/output에 알맞는 학습 데이터셋 구축
 - 데이터에 맞는 모델 파라미터 조정 
